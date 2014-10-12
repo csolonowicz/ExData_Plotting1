@@ -1,3 +1,7 @@
+Course Project 1
+
+Scripts depend on proper data location so make sure they are configured properly before running.
+
 ## Introduction
 
 This assignment uses data from
